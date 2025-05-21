@@ -10,6 +10,8 @@ I have provided `cities.zip` to show how I grouped missionary residences togethe
 
 The main data analysis and visualization notebook is `Mission Communities.ipynb`. Here you can group sets of missions together and view communities that proportionally sent the most missionaries to that group of missions. Some other visualizations are also included.
 
+The Jupyter notebooks can be run either locally by installing Anaconda for free at https://www.anaconda.com/download, or online by saving the notebooks to Google Drive and using Google Colab (for instructions see [https://saturncloud.io/blog/how-to-run-a-downloaded-jupyter-notebook-on-google-colaboratory/](https://saturncloud.io/blog/how-to-run-a-downloaded-jupyter-notebook-on-google-colaboratory/)). 
+
 
 ### Tableau Visualizations
 
